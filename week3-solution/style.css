@@ -1,6 +1,28 @@
 *{
     box-sizing: border-box;
 }
-.navbar{
-    background-color: aqua;
+body{
+    background-color: aquamarine;
 }
+#header-nav{
+    background-color: khaki;
+    height: 100px;
+}
+#food{
+    text-align: left;
+    font-size: 2em;
+    margin: 0 0 0 0;
+}
+h1{
+    text-align: center;
+}
+#how{
+    background-color: tan;
+    height: 1200px;
+    margin: 20px 20px 20px 20px;
+}
+
+.col-md-4{
+    border: 3px solid black
+}
+@media
