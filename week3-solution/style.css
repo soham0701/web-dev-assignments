@@ -21,9 +21,14 @@ body{
     margin: 20px 20px 20px 20px;
 }
 #nav-list a:hover{
-    color: teal;
+    color: purple;
+    
+}
+#nav-list>li{
+    background-color: paleturquoise;
 }
 .col-sm-12{
     width: 100%;
-    border-bottom: solid white 0.5px;
+    border-bottom: solid black 0.5px;
 }
+
